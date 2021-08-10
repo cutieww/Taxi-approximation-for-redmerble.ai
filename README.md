@@ -22,6 +22,7 @@ You are an event planner for a small Melbourne consulting firm. Your organizatio
 - we make sure that the time of picking up wont take too long, so I chose 4 closest people to get into one taxi (using k-means) 
 - In each cluster, we pick up the one has got longest distance from the airport first, then go to the second, second last then the last. (it's pretty naive). we can use google map api later on to improve it.
 - or we can let employees go to the pick up location by themselves the pick up location can be the centre of the cluster (this way can save so much time pick up time and also cost of taxis),it's just an option
+- find the fee of each employee have their own taxi and the fee of a taxi takes 4 employees, also the difference between them
 
 ## future steps:
 - look deep into trade off between cost and time
