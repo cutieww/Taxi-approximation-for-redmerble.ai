@@ -1,4 +1,4 @@
-# Taxi-opproximation-for-redmerble.ai
+# Taxi-optimization-for-redmerble.ai
 
 ## Project description: 
 
