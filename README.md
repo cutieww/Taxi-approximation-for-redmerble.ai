@@ -24,8 +24,9 @@ You are an event planner for a small Melbourne consulting firm. Your organizatio
 - Calculate the fee of each employee have their own taxi and the fee of a taxi takes 4 employees, also the difference between them.
 
 ## future steps:
-- look deep into trade off between cost and time
+- look deeper into trade off between cost and time
 - use google map api to check the duration between each address and airport
+- try different ks for K-mean, we can use elbow method to find K
 - expand the project further for larger data sets 
 
 ## Output maps && plots
