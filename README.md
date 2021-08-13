@@ -7,13 +7,13 @@ You are an event planner for a small Melbourne consulting firm. Your organizatio
 
 ## Assumptions:
 - All the addresses that are given are valid. No missing or wrong values
-- There are outlier but we are keeping them since all the values are necessary for us to work with
+- There are outliers but we are keeping them since all the values are necessary for us to work with
 - The employees are good friends with each other, they are comfortable with sharing one taxi
 - There is a trade off between time of arriving and cost of the taxi
 
 ## Data pre-processing:
 - No need to do much data cleaning, since we assumed the data provided are valid. However, we do need to understand the data that is given.
-- I get the latitude and longtitute of each address for further opporation, put them in the data frame as new attributes
+- I get the latitude and longitude of each address for further opporation, put them in the data frame as new attributes
 
 ## Approach to this problem:
 - I put as many people as we can into one taxi(which is 4) to save the money on calling extra taxis.
